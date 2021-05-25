@@ -10,5 +10,5 @@ We try the very best to create the most wonderful XR experiences for people.
 * [Humpty Dumpty VR](https://fvworks.github.io/dumpty)
 ![dumpty](/assets/pics/dumpty.png)
 
-* [The Fun House](https://fvworks.github.io/funhouse)
+* [Fun House](https://fvworks.github.io/funhouse)
 ![funhouse](/assets/pics/funhouse.png)
